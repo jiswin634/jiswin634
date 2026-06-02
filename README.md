@@ -1,10 +1,10 @@
 # Hi, I'm Jiswin 👋
 
-Building AI-powered tools and startups.
+Building AI-powered products, startups, and scalable technology ventures.
 
 ## Projects
 
-- HS Code Finder
+- - [HS Code Finder](https://ai-hs-code-finder.vercel.app)
 - PulseSkin (in development)
 - Import Risk Intelligence (in development)
 
