@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jiswin 👋
 
-<!--
-**jiswin634/jiswin634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-powered tools and startups.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HS Code Finder
+- PulseSkin (in development)
+- Import Risk Intelligence (in development)
+
+## Live Projects
+
+- HS Code Finder: https://ai-hs-code-finder.vercel.app
+
+## Tech Stack
+
+- TypeScript
+- Next.js
+- OpenAI
+- Tailwind CSS
+- Vercel
